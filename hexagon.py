@@ -1,7 +1,7 @@
 import turtle, time
 
 
-turtle.speed(10000)
+turtle.speed(0)
             
 colors = [ "red","purple","blue","green","orange","yellow"]
 pen = turtle.Pen()
